@@ -1,0 +1,12 @@
+Design goal
+
+Description:
+A timer that prompts the user on startup to enter the duration of the timer in minutes.
+After hitting enter, it will automatically start the timer. When the time is up it will
+play a choosen sound as the alarm to alert the user and prompt the user whether he/she
+wants to restart the timer or enter a new duration.
+
+Ideas
+The user can choose between two modes: Hardcore mode, which won't let the user restart
+the timer unless 5 minutes after the alarm has gone off have passed.
+Easy Mode will let you restart the timer at any time.
