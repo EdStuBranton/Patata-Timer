@@ -1,2 +1,2 @@
 # Patata-Timer
-A terminal based Pomodoro-Timer but less visual
+A terminal based Pomodoro-Timer but less visually appealing
